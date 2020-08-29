@@ -6,4 +6,4 @@ To open a new bug or review existing bugs, [open an issue here](https://github.c
 
 ## Credits
 
-> <img src="https://lighthouse-check.s3.amazonaws.com/images/logo-simple-blue-light-512.png" width="100" height="100" align="left" /> Brought to you by [Foo - for improving website SEO, performance, user experience and engineering practices](https://www.foo.software). Automatic website SEO and performance testing.
+> <img src="https://lighthouse-check.s3.amazonaws.com/images/logo-simple-blue-light-512.png" width="100" height="100" align="left" /> Brought to you by [Foo - for improving website SEO, performance, user experience and engineering practices](https://www.foo.software). Automatic website SEO and performance testing.<br/><br/><br/><br/>
