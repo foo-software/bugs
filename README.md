@@ -2,7 +2,7 @@
 
 This is a space to manage [www.foo.software](www.foo.software) and related service bugs.
 
-To open a new bug or review existing bugs, [open an issue here](https://github.com/foo-software/bugs/issues).
+To open a new bug or review existing bugs [open an issue here](https://github.com/foo-software/bugs/issues).
 
 ## Credits
 
