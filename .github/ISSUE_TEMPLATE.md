@@ -2,6 +2,10 @@
 
 Summarize the issue and the impact here.
 
+#### Related Issues
+
+Add any related issues here.
+
 # Expected Behavior
 
 Be as detailed as possible to describe the expected behavior.
