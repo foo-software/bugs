@@ -6,13 +6,13 @@ Summarize the issue and the impact here.
 
 Add any related issues here.
 
-# Expected Behavior
-
-Be as detailed as possible to describe the expected behavior.
-
 # Actual Behavior
 
 Be as detailed as possible to describe the actual behavior.
+
+# Expected Behavior
+
+Be as detailed as possible to describe the expected behavior.
 
 # Environment
 
